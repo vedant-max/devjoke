@@ -86,6 +86,12 @@ A URLogist
 
 ***
 
+#### Question - What is debugging?
+
+Being detective in a crime movie where you are also the murderer.
+
+***
+
 ![async](./images/async.png)
 ***
 
